@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?breakndream)](https://github.com/anuraghazra/github-readme-stats)
+[![Sharon Kang's GitHub stats](https://github-readme-stats.vercel.app/api?username=breakndream)](https://github.com/breakndream/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=breakndream)](https://github.com/breaknream/github-readme-stats)
 
 
 <!--
