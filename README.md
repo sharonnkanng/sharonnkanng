@@ -1,8 +1,11 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=Hi%20There👋&fontSize=80&fontAlignY=35&fontAlign=60)
-[![Sharon Kang's GitHub stats](https://github-readme-stats.vercel.app/api?username=breakndream)](https://github.com/breakndream/github-readme-stats)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=Hi%20There👋&fontSize=80&fontAlignY=35&fontAlign=52)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=breakndream)](https://github.com/breaknream/github-readme-stats)
-
+<a href="Sharon Kang's GitHub stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=breakndream"/>
+</a>
+<a href="https://github.com/breaknream/github-readme-stats">
+  <img align="center" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=breakndream"/>
+</a>
 
 <!--
 **breakndream/breakndream** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
