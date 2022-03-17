@@ -7,14 +7,35 @@
 - 👩‍💻 I love learning technology because of its power to make things into reality🖼️  
 - 🔭 My Interest is HCI (Human-Computer Interaction) 
 - ⚡ Fun fact: I was majoring in International Relations in 🗾 before I started coding (and transfer to 🗽!)
+- 💬 How to reach me...  <a href="https://github.com/breakndream">
+    <img alt="GitHub" title="GitHub" height="25" width="25" src="assets/github.svg">
+  </a>
+  <a href="https://www.linkedin.com/in/dayeonkang28/">
+    <img alt="LinkedIn" title="LinkedIn" height="25" width="25" src="assets/linkedin.svg">
+  </a>
+   <a href="https://www.youtube.com/channel/UCqktDJmuJjZ4dkubaKgCkBA">
+    <img alt="YouTube" title="YouTube" height="25" width="25" src="assets/youtube.svg">
+  </a>
+   <a href="https://twitter.com/findNovembre">
+    <img alt="Twitter" title="Twitter" height="25" width="25" src="assets/twitter.svg">
+  </a> 
+  <a href="mailto:kang26d@mtholyoke.edu">
+  <img alt="Mail" title="Gmail" height="25" width="25" src="assets/icons8-gmail.svg">
+  </a>
+</p>
 
 
 
 ## Tech Stack🤍
 <p align="center">
-	<img title="Python" alt="Python" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/python.svg" width="40" height="40" />
-	<img title="R" alt="linux" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/r-lang.svg" width="55" />
-	<img title="Git" alt="Git" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/git.svg" width="70" height="40" />
+	<img title="swift" alt="swfit" src="/assets/swift-icon.svg" height="40" />
+	<img title="R" alt="linux" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/r-lang.svg"  width="50" width="40" />
+	<img title="HTML" alt="html" src="/assets/html-5.svg"  width="50" height="40" />
+	<img title="CSS" alt="css" src="/assets/css-3.svg" width="50" height="40" />
+	<img title="Python" alt="Python" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/python.svg" width="50" height="40" />
+	<img title="Java" alt="java" src="/assets/java.svg" width="45" height="40" />
+	<img title="Git" alt="Git" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/git.svg" width="90" height="40" />
+	
 </p>
 
 ## Statistics 🎢
@@ -30,19 +51,4 @@
 <p>
 </p> 
 
-## How to reach me 💬 
 
-<p align="center">
-<a href="https://github.com/breakndream">
-    <img alt="GitHub" title="GitHub" height="40" width="40" src="assets/github.svg">
-  </a>
-  <a href="https://www.linkedin.com/in/dayeonkang28/">
-    <img alt="LinkedIn" title="LinkedIn" height="40" width="40" src="assets/linkedin.svg">
-  </a>
-   <a href="https://www.youtube.com/channel/UCqktDJmuJjZ4dkubaKgCkBA">
-    <img alt="YouTube" title="YouTube" height="40" width="40" src="assets/youtube.svg">
-  </a>
-   <a href="https://twitter.com/findNovembre">
-    <img alt="Twitter" title="Twitter" height="40" width="40" src="assets/twitter.svg">
-  </a> 
-</p>
