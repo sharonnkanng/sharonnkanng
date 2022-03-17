@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=Hi%20There👋&fontSize=80&fontAlignY=35&fontAlign=52)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=Hi%20There👋&fontSize=80&fontAlignY=35&fontAlign=50)
 
 <a href="Sharon Kang's GitHub stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=breakndream"/>
