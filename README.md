@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=250&section=header&text=Hi,%10I'm%10Sharon%Kang%20👋&fontSize=100&animation=twinkling&fontAlignY=35&fontAlign=53)
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=250&section=header&text=Hello%20World%20👋&fontSize=100&animation=twinkling&fontAlignY=35&fontAlign=53)
 
 [![Sharon Kang's GitHub stats](https://github-readme-stats.vercel.app/api?username=breakndream)](https://github.com/breakndream/github-readme-stats)
 
