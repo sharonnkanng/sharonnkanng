@@ -6,20 +6,8 @@
 - 😄 I use *She/Her/Hers* as my pronouns
 - 👩‍💻 I love learning technology because of its power to make things into reality🖼️  
 - 🔭 My Interest is HCI (Human-Computer Interaction) 
-###  
 - ⚡ Fun fact: I was majoring in International Relations in 🗾 before I started coding (and transfer to 🗽!)
-- 💬 How to reach me...   <a href="https://github.com/breakndream">
-    <img alt="GitHub" title="GitHub" height="25" width="25" src="assets/github.svg">
-  </a>
-  <a href="https://www.linkedin.com/in/dayeonkang28/">
-    <img alt="LinkedIn" title="LinkedIn" height="25" width="25" src="assets/linkedin.svg">
-  </a>
-   <a href="https://www.youtube.com/channel/UCqktDJmuJjZ4dkubaKgCkBA">
-    <img alt="YouTube" title="YouTube" height="25" width="25" src="assets/youtube.svg">
-  </a>
-   <a href="https://twitter.com/findNovembre">
-    <img alt="Twitter" title="Twitter" height="25" width="25" src="assets/twitter.svg">
-  </a> 
+
 
 
 ## Tech Stack🤍
@@ -30,6 +18,7 @@
 </p>
 
 ## Statistics 🎢
+<p>
 <a href="Sharon Kang's GitHub stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=breakndream"/>
 </a>
@@ -37,10 +26,21 @@
 <a href="https://github.com/breaknream/github-readme-stats">
   <img align="right" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=breakndream"/>
 </a>
+</p>
 
-<!--
-**breakndream/breakndream** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## How to reach me 💬 
 
-Here are some ideas to get you started:
-
--->
+<p align="center">
+<a href="https://github.com/breakndream">
+    <img alt="GitHub" title="GitHub" height="40" width="40" src="assets/github.svg">
+  </a>
+  <a href="https://www.linkedin.com/in/dayeonkang28/">
+    <img alt="LinkedIn" title="LinkedIn" height="40" width="40" src="assets/linkedin.svg">
+  </a>
+   <a href="https://www.youtube.com/channel/UCqktDJmuJjZ4dkubaKgCkBA">
+    <img alt="YouTube" title="YouTube" height="40" width="40" src="assets/youtube.svg">
+  </a>
+   <a href="https://twitter.com/findNovembre">
+    <img alt="Twitter" title="Twitter" height="40" width="40" src="assets/twitter.svg">
+  </a> 
+</p>
