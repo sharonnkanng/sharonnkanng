@@ -22,12 +22,12 @@
 <a href="Sharon Kang's GitHub stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=breakndream"/>
 </a>
-
 <a href="https://github.com/breaknream/github-readme-stats">
   <img align="right" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=breakndream"/>
 </a>
 </p>
 
+###  
 ## How to reach me 💬 
 
 <p align="center">
