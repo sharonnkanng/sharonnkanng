@@ -5,7 +5,7 @@
 - 🤓 A sophomore majoring in Computer Science at Mount Holyoke College. I am a question asker✨ and self learner🎯 
 - 😄 I use *She/Her/Hers* as my pronouns
 - 👩‍💻 I love learning technology because of its power to make things into reality🖼️  
-- 🔭 My Interest is HCI (Human-Computer Interaction) 
+- 🔭 My Interest is HCI (Human-Computer Interaction), Web Development, iOS
 - ⚡ Fun fact: I was majoring in International Relations in 🗾 before I started coding (and transfer to 🗽!)
 - 💬 How to reach me...  <a href="https://github.com/breakndream">
     <img alt="GitHub" title="GitHub" height="25" width="25" src="assets/github.svg">
