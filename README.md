@@ -16,9 +16,9 @@
    <a href="https://www.youtube.com/channel/UCqktDJmuJjZ4dkubaKgCkBA">
     <img alt="YouTube" title="YouTube" height="25" width="25" src="assets/youtube.svg">
   </a>
-<!--    <a href="https://twitter.com/findNovembre">
+   <a href="https://twitter.com/findNovembre">
     <img alt="Twitter" title="Twitter" height="25" width="25" src="assets/twitter.svg">
-  </a>  -->
+  </a> 
   <a href="mailto:kang26d@mtholyoke.edu">
   <img alt="Mail" title="Gmail" height="25" width="25" src="assets/icons8-gmail.svg">
   </a>
