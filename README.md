@@ -2,10 +2,10 @@
 
 ## I'm Sharon Kang, 
 
-- 🤓 A rising junior majoring in Computer Science at Mount Holyoke College. I am a question asker✨ and self-learner🎯 
-- 😄 I use *She/Her/Hers* as pronouns
+- 🤓 A rising junior (Class of 2024) majoring in Computer Science at Mount Holyoke College. 
+- 😄 I am a question asker✨ and self-learner🎯 who use *She/Her/Hers* as pronouns
 - 👩‍💻 I love learning technology because of its power to make things into reality🖼️  
-- 🔭 My Interests are Web Development and iOS Development 
+- 🔭 My Interests are Web Development and Data Science 
 - ⚡ Fun fact: I was majoring in International Relations in 🗾 before I started coding (and transfer to 🗽!)
 - 💬 How to reach me...  <a href="https://github.com/breakndream">
     <img alt="GitHub" title="GitHub" height="25" width="25" src="assets/github.svg">
@@ -28,12 +28,14 @@
 
 ## Tech Stack🤍
 <p align="center">
-	<img title="swift" alt="swfit" src="/assets/swift-icon.svg" height="40" />
-	<img title="R" alt="linux" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/r-lang.svg"  width="50" width="40" />
 	<img title="HTML" alt="html" src="/assets/html-5.svg"  width="50" height="40" />
 	<img title="CSS" alt="css" src="/assets/css-3.svg" width="50" height="40" />
+	<img title="Javascript" alt="Javascript" src="/assets/Javascript.svg" width="45" height="41" />
+	<img title="React" alt="react" src="/assets/react.svg" width="43" height="43" />   <br/>
 	<img title="Python" alt="Python" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/python.svg" width="50" height="40" />
 	<img title="Java" alt="java" src="/assets/java.svg" width="45" height="40" />
+	<img title="swift" alt="swfit" src="/assets/swift-icon.svg" height="40" />
+	<img title="R" alt="linux" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/r-lang.svg"  width="50" width="40" />
 	<img title="Git" alt="Git" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/git.svg" width="90" height="40" />
 	
 </p>
