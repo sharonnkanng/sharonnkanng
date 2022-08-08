@@ -30,27 +30,28 @@
 <p align="center">
 	<img title="HTML" alt="html" src="/assets/html-5.svg"  width="50" height="40" />
 	<img title="CSS" alt="css" src="/assets/css-3.svg" width="50" height="40" />
-	<img title="Javascript" alt="Javascript" src="/assets/Javascript.svg" width="45" height="41" />
-	<img title="React" alt="react" src="/assets/react.svg" width="43" height="43" />   <br/>
+	<img title="Javascript" alt="Javascript" src="/assets/Javascript.svg" width="45" height="41" /> 
+	<img title="React" alt="react" src="/assets/React.svg" width="43" height="43" />   <br/>
 	<img title="Python" alt="Python" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/python.svg" width="50" height="40" />
-	<img title="Java" alt="java" src="/assets/java.svg" width="45" height="40" />
-	<img title="swift" alt="swfit" src="/assets/swift-icon.svg" height="40" />
+	<img title="Java" alt="java" src="/assets/java.svg" width="45" height="40" /> 
+	<img title="swift" alt="swfit" src="/assets/swift-icon.svg" height="40" /> <br/>
+	<img title="Python Pandas" alt="Python Pandas" src="/assets/pandas.svg" width="90" height="43" />  
 	<img title="R" alt="linux" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/r-lang.svg"  width="50" width="40" />
 	<img title="Git" alt="Git" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/git.svg" width="90" height="40" />
 	
 </p>
 
 ## Statistics 🎢
-<p>
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fbreakndream&count_bg=%23CA9AFE&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hello+visitors&edge_flat=false)](https://hits.seeyoufarm.com)
+<div>
 <a href="Sharon Kang's GitHub stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=breakndream"/>
 </a>
 <a href="https://github.com/breaknream/github-readme-stats">
   <img align="right" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=breakndream"/>
 </a>
-</p>
+</div>
 
-<p>
-</p> 
+
 
 
