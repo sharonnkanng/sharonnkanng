@@ -2,7 +2,7 @@
 
 ## I'm Sharon Kang, 
 
-- 🤓 A rising junior (Class of 2024) majoring in Computer Science at Mount Holyoke College. 
+- 🤓 A junior (Class of 2024) majoring in Computer Science at Mount Holyoke College. 
 - 😄 I am a question asker✨ and self-learner🎯 who use *She/Her/Hers* as pronouns
 - 👩‍💻 I love learning technology because of its power to make things into reality🖼️  
 - 🔭 My Interests are Web Development and Data Science 
