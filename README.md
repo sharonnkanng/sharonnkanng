@@ -5,7 +5,7 @@
 - 🤓 A junior (Class of 2024) majoring in Computer Science at Mount Holyoke College. 
 - 😄 I am a question asker✨ and self-learner🎯 who use *She/Her/Hers* as pronouns
 - 👩‍💻 I love learning technology because of its power to make things into reality🖼️  
-- 🔭 My Interests are Web Development and Data Science 
+- 🔭 My Interests are Web Development and Computational Social Science 
 - ⚡ Fun fact: I was majoring in International Relations in 🗾 before I started coding (and transfer to 🗽!)
 - 💬 How to reach me...  <a href="https://github.com/breakndream">
     <img alt="GitHub" title="GitHub" height="25" width="25" src="assets/github.svg">
@@ -44,10 +44,10 @@
 ## Statistics 🎢
 <div>
 <a href="Sharon Kang's GitHub stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=breakndream"/>
+  <img alt="Top Langs" height="180px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=breakndream&layout=compact&theme=tokyonight" />
 </a>
 <a href="https://github.com/breaknream/github-readme-stats">
-  <img align="right" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=breakndream"/>
+  <img alt="GitHub stats" height="180px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=breakndream&theme=tokyonight&show_icons=true" />
 </a>
 </div>
 
