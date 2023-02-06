@@ -44,10 +44,10 @@
 ## Statistics 🎢
 <div>
 <a href="Sharon Kang's GitHub stats">
-  <img alt="Top Langs" height="180px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=breakndream&layout=compact&theme=white" />
+  <img alt="Top Langs" height="180px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=sharonnkanng&layout=compact&theme=white" />
 </a>
 <a href="https://github.com/breaknream/github-readme-stats">
-  <img alt="GitHub stats" height="180px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=breakndream&theme=white&show_icons=true" />
+  <img alt="GitHub stats" height="180px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=sharonnkanng&theme=white&show_icons=true" />
 </a>
 </div>
 
