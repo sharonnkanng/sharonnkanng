@@ -2,7 +2,7 @@
 
 ## I'm Sharon Kang, 
 
-- 🤓 A junior (Class of 2024) majoring in Computer Science at Mount Holyoke College. 
+- 🤓 A rising senior (Class of 2024) majoring in Computer Science at Mount Holyoke College. 
 - 😄 I am a question asker✨ and self-learner🎯 who use *She/Her/Hers* as pronouns
 - 👩‍💻 I love learning technology because of its power to make things into reality🖼️  
 - 🔭 My Interests are Web Development and Computational Social Science 
@@ -13,12 +13,6 @@
   <a href="https://www.linkedin.com/in/dayeonkang28/">
     <img alt="LinkedIn" title="LinkedIn" height="25" width="25" src="assets/linkedin.svg">
   </a>
-   <a href="https://www.youtube.com/channel/UCqktDJmuJjZ4dkubaKgCkBA">
-    <img alt="YouTube" title="YouTube" height="25" width="25" src="assets/youtube.svg">
-  </a>
-   <a href="https://twitter.com/findNovembre">
-    <img alt="Twitter" title="Twitter" height="25" width="25" src="assets/twitter.svg">
-  </a> 
   <a href="mailto:kang26d@mtholyoke.edu">
   <img alt="Mail" title="Gmail" height="25" width="25" src="assets/icons8-gmail.svg">
   </a>
