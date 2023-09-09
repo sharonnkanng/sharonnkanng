@@ -2,12 +2,12 @@
 
 ## I'm Sharon Kang, 
 
-- 🤓 A rising senior (Class of 2024) majoring in Computer Science at Mount Holyoke College. 
+- 🤓 A senior (Class of 2024) majoring in Computer Science at Mount Holyoke College. 
 - 😄 I am a question asker✨ and self-learner🎯 who use *She/Her/Hers* as pronouns
 - 👩‍💻 I love learning technology because of its power to make things into reality🖼️  
-- 🔭 My Interests are Web Development and Computational Social Science 
+- 🔭 My Interests are DevOps & SRE & Computational Social Science 
 - ⚡ Fun fact: I was majoring in International Relations in 🗾 before I started coding (and transfer to 🗽!)
-- 💬 How to reach me...  <a href="https://github.com/breakndream">
+- 💬 How to reach me...  <a href="https://github.com/sharonnkanng">
     <img alt="GitHub" title="GitHub" height="25" width="25" src="assets/github.svg">
   </a>
   <a href="https://www.linkedin.com/in/dayeonkang28/">
@@ -34,17 +34,6 @@
 	<img title="Git" alt="Git" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/git.svg" width="90" height="40" />
 	
 </p>
-
-## Statistics 🎢
-<div>
-<a href="Sharon Kang's GitHub stats">
-  <img alt="Top Langs" height="180px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=sharonnkanng&layout=compact&theme=white" />
-</a>
-<a href="https://github.com/breaknream/github-readme-stats">
-  <img alt="GitHub stats" height="180px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=sharonnkanng&theme=white&show_icons=true" />
-</a>
-</div>
-
 
 
 
